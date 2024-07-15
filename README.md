@@ -1,4 +1,4 @@
-# Agenda_D1_Python_Rockeatseat
+# Agenda_D1_Python_Rocketseat
 
 Nesta aplicação, desenvolvi uma agenda para salvar, editar, deletar e marcar um contato como favorito. O resultado da aplicação deve ser apresentado no terminal, assim como foi visto no módulo “Introdução ao Python”.
 
